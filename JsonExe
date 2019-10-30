@@ -1,0 +1,29 @@
+{"nome":"José Ninguém",
+"email": "noone@mail.com",
+"fone":"83999999999",
+"contas":[
+    {
+     "titulo": "14/25-25",
+     "resumo": "Boleto Moto",
+     "valor": 339.99,
+     "vencimento": "2019-09-01" 
+    },
+   {
+     "titulo": "s/n",
+     "resumo": "Conta de agua",
+     "valor": 84.11,
+     "vencimento": "2019-07-01" 
+    },
+	{
+     "titulo": "52",
+     "resumo": "Aluguel de carro",
+     "valor": 149.00,
+     "vencimento": "2019-01-01" 
+    },
+	{
+     "titulo": "53",
+     "resumo": "Facu",
+     "valor": 149.00,
+     "vencimento": "2019-02-01" 
+    }
+]}
